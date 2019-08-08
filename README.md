@@ -7,14 +7,14 @@ ARM assembly language
 ## C
 The C programming language
 ### General
-Modern C <br>
+<b>Modern C</b><br>
 http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf
 ### Struct Packing
-The Lost Art of Structure Packing <br>
+<b>The Lost Art of Structure Packing</b> <br>
 http://www.catb.org/esr/structure-packing/
 
 ### Undefined Behavior
-A Guide to Undefined Behavior in C and C++ (Parts 1,2 & 3)<br>
+<b>A Guide to Undefined Behavior in C and C++ (Parts 1, 2 & 3)</b><br>
 https://blog.regehr.org/archives/213 <br>
 https://blog.regehr.org/archives/226 <br>
 https://blog.regehr.org/archives/232 
@@ -24,7 +24,7 @@ Modern and historical cryptography
 
 ## Linux
 ### General
-The Cathedral and the Bazaar <br>
+<b>The Cathedral and the Bazaar</b><br>
 http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/
 
 ## Operating Systems
