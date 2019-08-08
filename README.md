@@ -22,6 +22,11 @@ https://blog.regehr.org/archives/232
 ## Cryptography
 Modern and historical cryptography
 
+## Linux
+### General
+The Cathedral and the Bazaar <br>
+http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/
+
 ## Operating Systems
 Operating system internals and design
 
