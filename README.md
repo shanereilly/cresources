@@ -6,7 +6,11 @@ ARM assembly language
 
 ## C
 The C programming language
+### General
+Modern C
+http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf
 ### Struct Packing
+The Lost Art of Structure Packing
 http://www.catb.org/esr/structure-packing/
 
 ## Operating Systems
