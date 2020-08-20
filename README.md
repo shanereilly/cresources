@@ -27,8 +27,11 @@ Operating system internals and design
 ## Reverse Engineering
 Reverse engineering tools, techniques and theory.
 
-### Binary Visualization
-- **binvis.io** A tool to visually dissect and analyze binary files<br>http://binvis.io/#/<br>
+### Tools
+- **binvis.io**: A tool to visually dissect and analyze binary files<br>http://binvis.io/#/<br>
+- **binwalk**: Firmware analysis tool<br>https://github.com/ReFirmLabs/binwalk
+- **Ghidra**: NSA's reverse engineering tool suite<br>https://ghidra-sre.org/
+- **radare2**: Portable reversing framework<br>https://www.radare.org/n/radare2.html
 
 ## x86 Assembly
 x86-32 and x86-64 assembly language
