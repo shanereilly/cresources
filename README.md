@@ -34,8 +34,7 @@ Operating system internals and design
 Reverse engineering tools, techniques and theory.
 
 ## Binary Visualization
-**binvis.io**
-
+**binvis.io**<br>
 http://binvis.io/#/
 
 ## x86 Assembly
