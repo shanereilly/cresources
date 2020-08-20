@@ -33,7 +33,7 @@ Operating system internals and design
 ## Reverse Engineering
 Reverse engineering tools, techniques and theory.
 
-## Binary Visualization
+### Binary Visualization
 **binvis.io**<br>
 http://binvis.io/#/
 
