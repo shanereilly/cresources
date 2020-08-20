@@ -4,6 +4,10 @@ A list of helpful and intersesting links on various topics.
 ## ARM
 ARM assembly language
 
+## Binary Visualization
+**binvis.io**
+http://binvis.io/#/
+
 ## C
 The C programming language
 ### General
