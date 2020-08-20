@@ -28,7 +28,7 @@ Operating system internals and design
 Reverse engineering tools, techniques and theory.
 
 ### Binary Visualization
-- **binvis.io**<br>http://binvis.io/#/<br>A tool to visually dissect and analyze binary files
+- **binvis.io** A tool to visually dissect and analyze binary files<br>http://binvis.io/#/<br>
 
 ## x86 Assembly
 x86-32 and x86-64 assembly language
