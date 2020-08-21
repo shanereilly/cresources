@@ -31,6 +31,7 @@ Reverse engineering tools, techniques and theory.
 - **binvis.io**: A tool to visually dissect and analyze binary files<br>http://binvis.io/#/<br>
 - **binwalk**: Firmware analysis tool<br>https://github.com/ReFirmLabs/binwalk
 - **Ghidra**: NSA's reverse engineering tool suite<br>https://ghidra-sre.org/
+- **PE Tools**: Portable executable manipulation toolkit<br>https://github.com/petoolse/petools/
 - **radare2**: Portable reversing framework<br>https://www.radare.org/n/radare2.html
 
 ## x86 Assembly
