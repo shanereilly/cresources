@@ -28,7 +28,14 @@ Operating system internals and design
 Reverse engineering tools, techniques and theory.
 
 ### Tools
-- **binvis.io**: A tool to visually dissect and analyze binary files<br>http://binvis.io/#/<br>
+#### Hardware
+- **BusPirate**: Open-source, small single-board computer designed for programming, debugging, and analyzing microcontrollers<br>http://dangerousprototypes.com/docs/Bus_Pirate
+- **HackRF**: Open-source, software defined radio peripheral capable of transmission or reception of radio signals from 1 MHz to 6 GHz<br>https://greatscottgadgets.com/hackrf/one/
+- **JTAGulator®**: Open source hardware tool that assists in identifying OCD connections from test points, vias, or component pads on a target device<br>http://www.grandideastudio.com/jtagulator/
+- **Shikra**: Device that allows the user to interface (via USB) to a number of different low-level data interfaces<br>https://int3.cc/products/the-shikra
+
+#### Software
+- **binvis.io**: A tool to visually dissect and analyze binary files<br>http://binvis.io/#/
 - **binwalk**: Firmware analysis tool<br>https://github.com/ReFirmLabs/binwalk
 - **bless** GTK hex editor<br>https://github.com/afrantzis/bless
 - **c++filt**: C++ and Java symbol demangler<br>https://sourceware.org/binutils/docs/binutils/c_002b_002bfilt.html
