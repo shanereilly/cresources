@@ -17,6 +17,12 @@ The C programming language
 ## Cryptography
 Modern and historical cryptography
 
+## Capture the Flag / Wargames
+- [Bandit](https://overthewire.org/wargames/bandit/)
+- [challenges.re](challenges.re)
+- [CryptoHack](https://cryptohack.org/)
+
+
 ## Linux
 ### General
 - **The Cathedral and the Bazaar**<br>http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/
@@ -26,6 +32,12 @@ Operating system internals and design
 
 ## Reverse Engineering
 Reverse engineering tools, techniques and theory.
+
+### Books
+- **Mastering Reverse Engineering** by Reginald Wong
+- **Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation** by Bruce Dang, Alexandre Gazet & Elias Bachaalany
+- **Reverse Engineering for Beginners** by Dennis Yurichev <br>https://beginners.re/
+- **Reversing: Secrets of Reverse Engineering** by Eldad Eilam
 
 ### Tools
 #### Hardware
