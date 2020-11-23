@@ -52,10 +52,11 @@ Reverse engineering tools, techniques and theory.
 - **bless** GTK hex editor<br>https://github.com/afrantzis/bless
 - **c++filt**: C++ and Java symbol demangler<br>https://sourceware.org/binutils/docs/binutils/c_002b_002bfilt.html
 - **ciphey**: Encryption detector<br>https://github.com/Ciphey/Ciphey
-- **dumpbin**:  Displays information about Common Object File Format (COFF) binary files<br>
+- **dumpbin**:  Displays information about Common Object File Format (COFF) binary files<br>https://docs.microsoft.com/en-us/cpp/build/reference/dumpbin-reference?view=vs-2019
 - **diStorm**: x86/x64 disassembler library<br>https://github.com/gdabah/distorm/
 - **jadx**: Android decompiler<br>https://github.com/skylot/jadx
-- **Ghidra**: NSA's reverse engineering tool suite<br>https://ghidra-sre.org/<br>https://docs.microsoft.com/en-us/cpp/build/reference/dumpbin-reference?view=vs-2019
+- **Frida**: Dynamic instrumentation toolkit<br>https://frida.re/
+- **Ghidra**: NSA's reverse engineering tool suite<br>https://ghidra-sre.org/
 - **ISAdetect**: ML-based ISA detection<br>https://github.com/kairis/isadetect
 - **objdump**: Display information on object files<br>https://sourceware.org/binutils/docs/binutils/objdump.html
 - **Kaitai**: Binary structure parser generator<br>http://kaitai.io/
