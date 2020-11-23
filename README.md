@@ -18,9 +18,19 @@ The C programming language
 Modern and historical cryptography
 
 ## Capture the Flag / Wargames
+- [247CTF](https://247ctf.com)
 - [Bandit](https://overthewire.org/wargames/bandit/)
 - [challenges.re](challenges.re)
 - [CryptoHack](https://cryptohack.org/)
+- [CTFlearn](https://ctflearn.com/)
+- [Hacker101](https://ctf.hacker101.com/)
+- [HackTheBox](https://www.hackthebox.eu/)
+- [picoCTF](https://picoctf.org/)
+- [pwnable.kr](http://pwnable.kr/)
+- [pwnable.tw](https://pwnable.tw/)
+- [pwnable.xyz](https://pwnable.xyz/)
+- [TryHackMe](https://tryhackme.com/)
+- [XSS Game](http://xss-game.appspot.com/)
 
 
 ## Linux
@@ -52,6 +62,7 @@ Reverse engineering tools, techniques and theory.
 - **bless** GTK hex editor<br>https://github.com/afrantzis/bless
 - **c++filt**: C++ and Java symbol demangler<br>https://sourceware.org/binutils/docs/binutils/c_002b_002bfilt.html
 - **ciphey**: Encryption detector<br>https://github.com/Ciphey/Ciphey
+- **Cryptii**: Web app offering modular conversion, encoding and encryption online<br>https://cryptii.com/
 - **dumpbin**:  Displays information about Common Object File Format (COFF) binary files<br>https://docs.microsoft.com/en-us/cpp/build/reference/dumpbin-reference?view=vs-2019
 - **diStorm**: x86/x64 disassembler library<br>https://github.com/gdabah/distorm/
 - **jadx**: Android decompiler<br>https://github.com/skylot/jadx
@@ -67,7 +78,11 @@ Reverse engineering tools, techniques and theory.
 - **PEiD**: Detects most common packers, cryptors and compilers for PE files<br>https://github.com/wolfram77web/app-peid/
 - **PE Tools**: Portable executable manipulation toolkit<br>https://github.com/petoolse/petools/
 - **radare2**: Portable reversing framework<br>https://www.radare.org/n/radare2.html
+- **steghide**: Steganography program that is able to hide data in various kinds of image and audio files<br>steghide.sourceforge.net/
+- **stegsolve**:<br>https://github.com/zardus/ctf-tools/tree/master/stegsolve
 - **strings**: List sequences of printable characters in a file<br>https://sourceware.org/binutils/docs/binutils/strings.html
+- **YARA**: Pattern matching swiss knife.<br>https://virustotal.github.io/yara/
+- **zsteg**: Detect stegano-hidden data in PNG & BMP<br>https://github.com/zed-0xff/zsteg
 
 ## x86 Assembly
 x86-32 and x86-64 assembly language
